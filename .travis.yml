@@ -14,4 +14,3 @@ after_script:
 - docker push alparaschiv/ghost-node-10.15.0:$GHOST_VERSION-alpine
 - docker push alparaschiv/ghost-node-10.15.0:$GHOST_VERSION
 - docker push alparaschiv/ghost-node-10.15.0:latest
-
